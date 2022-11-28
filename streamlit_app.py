@@ -61,4 +61,3 @@ streamlit.write(df2[3])
 
 
 
-
